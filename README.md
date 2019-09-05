@@ -1,6 +1,6 @@
 # Extensão para o WebGiz da UEMG
 
-**Este plugin modifica a interface do sistema WEBGIZ, instalado no domínio da Universidade do Estado de Minas Gerais (UEMG).**
+**Este plugin (Mozilla Firefox) modifica a interface do sistema WEBGIZ, instalado no domínio da Universidade do Estado de Minas Gerais (UEMG).**
 
-O script modifica algumas estilos css, para que a experiência de consultar  notas fique mais agradável. 
+O código JavaScript modifica alguns estilos CSS, para que a experiência de consultar as notas se torne mais fácil e agradável. 
 
